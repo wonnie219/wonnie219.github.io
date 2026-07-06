@@ -1,8 +1,40 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# About
+
+안녕하세요.  
+배운 것과 만든 것을 기록하는 기술 블로그입니다.
+
+이 블로그에는 SW스쿨에서 배운 내용, 프로젝트 진행 과정, 42 과제 기록, 읽은 책 내용을 정리합니다.
+
+## 블로그 운영 목적
+
+단순히 공부한 내용을 저장하는 것이 아니라, 나중에 다시 봤을 때 이해할 수 있도록 제 언어로 정리하는 것이 목표입니다.
+
+특히 개발 중 만난 문제와 해결 과정을 기록해서, 같은 문제를 다시 만났을 때 빠르게 되돌아볼 수 있도록 정리하려고 합니다.
+
+## 주로 정리하는 내용
+
+- SW스쿨 학습 내용
+- Unreal Engine 프로젝트 정리
+- Git / GitHub 사용 기록
+- 42 과제 진행 과정
+- 개발 중 만난 오류와 해결 과정
+- 읽은 책과 인상 깊었던 내용
+
+## 관심 분야
+
+- Unreal Engine
+- Blueprint
+- Git / GitHub
+- Linux
+- 디지털 트윈
+- 웹/백엔드 기초
+- 문제 해결 기록
+
+## 블로그 방향
+
+이 블로그는 기술블로그이면서, 제가 어떤 것을 배우고 어떤 방식으로 문제를 해결했는지 보여주는 포트폴리오 보조 자료로 운영할 예정입니다.
